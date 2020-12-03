@@ -1,0 +1,114 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #f7325e;
+    font-family: fantasy;
+}
+
+h2 {
+    color: #f7325e;
+    font-family: fantasy;
+}
+
+p {
+    color: #7dc410;
+    font-family: fantasy;
+}
+
+.con {
+    margin-left: 800px;
+}
+
+
+.tropical {
+    height: 300px;
+    float: left;
+    margin-left: 200px;
+    padding: 5px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+.tropical img {
+    height: 300px;
+    width: 200px;
+}
+
+/* .tropical1 {
+    height: 300px;
+    float: left;
+    margin-left: 300px;
+    padding: 5px;
+    width: 200px;
+}
+
+.tropical1 img {
+    height: 300px;
+    width: 200px;
+}
+
+.tropical2 {
+    height: 300px;
+    float: left;
+    margin-left: 400px;
+    padding: 5px;
+    width: 200px;
+}
+
+.tropical2 img {
+    height: 300px;
+    width: 200px;
+} */
+
+/* Popular */
+.popular {
+    height: 300px;
+    float: left;
+    margin-left: 200px;
+    padding: 5px;
+    width: 300px;
+    margin-top: 500px;
+}
+
+.popular img {
+    height: 300px;
+    width: 200px;
+}
+
+.exp {
+    text-decoration: none;
+    color: #f7325e;
+    font-weight: 600;
+    font-family: Gotham Rounded;
+}
+
+.container {
+    float: left;
+    margin-left: 300px;
+}
+
+.title {
+    color: #f7325e;
+    text-transform: uppercase;
+    font-family: Gotham Rounded;
+}
+
+.sub-title {
+    color: #7dc410;
+    font-family: fantasy;
+}
+
+.article-area {
+    height: 500px;
+    width: 500px;
+    overflow: hidden;
+}
+
+strong {
+    color: #f7325e;
+}
+
